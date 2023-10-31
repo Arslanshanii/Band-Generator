@@ -15,7 +15,7 @@ Before running the application, ensure you have Node.js installed on your machin
 ```
 - Navigate to the project directory:
  ```bash
-  git clone <repository-url>
+  cd <project-directory>
 ```
 
 - Install dependencies:
