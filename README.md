@@ -2,6 +2,8 @@
 # Band Name Generator
 This is a simple web application built with Express.js that generates random band names. Users can visit the homepage, and by submitting a form, a unique band name is generated and displayed on the page.
 
+<img width="958" alt="Screenshot 2023-10-31 185241" src="https://github.com/Arslanshanii/Band-Generator/assets/107418040/cb584cdf-9b33-4240-bf6b-cbf0faae5998">
+
 ## Features
 - Creates a Random Band Names
 
