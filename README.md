@@ -34,7 +34,7 @@ Before running the application, ensure you have Node.js installed on your machin
 - Enter the world of unique band names by submitting the form on the homepage!
 
 ## Customization
-Feel free to customize the application by adding more adjectives and nouns to the adj array. This will expand the range of possible band names.
+Feel free and customize the application by adding more adjectives and nouns to the adj array. This will expand the range of possible band names.
 
 ## Acknowledgments
 This application was built with Express.js, a fast, unopinionated, minimalist web framework for Node.js.
